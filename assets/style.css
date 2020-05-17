@@ -1,21 +1,37 @@
-body{
-    font-family: 'Playfair Display SC', serif;
-    background-color:#283845;
+body {
+	font-family: "Playfair Display SC", serif;
+	background-color: #283845;
+	background-image: url("https://cdn.pixabay.com/photo/2020/04/17/14/16/landscape-5055384_1280.jpg");
+
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
 }
-.navbar-brand{
-    font-size: 1em;
-    color:#595A4A;
-    
+.navbar-brand {
+	font-size: 1em;
+	color: #595a4a;
 }
-.navbar{
-    font-size: 2em;
-    background: rgb(242,212,146);
+.navbar {
+	font-size: 2em;
+	background: rgb(242, 212, 146);
 }
-.jumbotron{
-    background-image: url("https://cdn.pixabay.com/photo/2020/04/17/14/16/landscape-5055384_1280.jpg");
-    height:50rem;
-    background-repeat: no-repeat; 
-    background-size: cover;
-    background-position: center;
-    color:rgb(242,212,146)
+.jumbotron {
+	background-image: url("https://cdn.pixabay.com/photo/2020/04/17/14/16/landscape-5055384_1280.jpg");
+	height: 50rem;
+	background-repeat: no-repeat;
+	background-size: contain;
+	background-position: center;
+	color: rgb(242, 212, 146);
+}
+.aboutText {
+	background-color: white;
+	color: black;
+}
+footer {
+	
+	width: 100%;
+	height: 50px;
+	background-color: rgb(242, 212, 146);
+	text-align: center;
+	border-top: 2px solid white;
 }
