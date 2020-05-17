@@ -3,11 +3,19 @@ body{
     background-color:#283845;
 }
 .navbar-brand{
-    font-size: 2em;
+    font-size: 1em;
     color:#595A4A;
     
 }
 .navbar{
     font-size: 2em;
     background: rgb(242,212,146);
-    
+}
+.jumbotron{
+    background-image: url("https://cdn.pixabay.com/photo/2020/04/17/14/16/landscape-5055384_1280.jpg");
+    height:50rem;
+    background-repeat: no-repeat; 
+    background-size: cover;
+    background-position: center;
+    color:rgb(242,212,146)
+}
