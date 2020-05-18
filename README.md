@@ -1,4 +1,4 @@
-![screen shot of Joshua levish's portfolio site]("assets/screenshot.png")
+![screen shot of Joshua levish's portfolio site]("https://raw.githubusercontent.com/jdlevish/portfolio/master/assets/screenshot.png ")
 
 # Joshua Levish Portfolio web site
 
