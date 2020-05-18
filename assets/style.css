@@ -1,11 +1,11 @@
 body {
 	font-family: "Playfair Display SC", serif;
-	background-color: #283845;
-	background-image: url("https://cdn.pixabay.com/photo/2020/04/17/14/16/landscape-5055384_1280.jpg");
+	
+	background-image: url("https://cdn.pixabay.com/photo/2020/04/17/14/16/landscape-5055384_1280.jpg"); 
 
 	background-repeat: no-repeat;
 	background-size: cover;
-	background-position: center;
+	background-position: center; 
 }
 .navbar-brand {
 	font-size: 1em;
@@ -34,4 +34,7 @@ footer {
 	background-color: rgb(242, 212, 146);
 	text-align: center;
 	border-top: 2px solid white;
+}
+.card-img-height{
+    height:168px;
 }
