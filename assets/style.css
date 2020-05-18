@@ -1,11 +1,7 @@
 body {
-	font-family: "Playfair Display SC", serif;
-	
-	background-image: url("https://cdn.pixabay.com/photo/2020/04/17/14/16/landscape-5055384_1280.jpg"); 
-
-	background-repeat: no-repeat;
-	background-size: cover;
-	background-position: center; 
+    font-family: "Playfair Display SC", serif;
+    
+	background-color: #335974;
 }
 .navbar-brand {
 	font-size: 1em;
@@ -25,7 +21,8 @@ body {
 }
 .aboutText {
 	background-color: white;
-	color: black;
+    color: black;
+    font-size:25px;
 }
 footer {
 	
